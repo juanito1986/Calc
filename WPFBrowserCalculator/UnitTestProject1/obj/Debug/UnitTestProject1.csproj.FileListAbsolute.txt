@@ -1,0 +1,10 @@
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\UnitTestProject1\bin\Debug\ClassLibrary.dll
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\UnitTestProject1\bin\Debug\NCalc.dll
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\UnitTestProject1\bin\Debug\ClassLibrary.pdb
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\UnitTestProject1\bin\Debug\Antlr3.Runtime.dll
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\UnitTestProject1\bin\Debug\Antlr3.Runtime.pdb

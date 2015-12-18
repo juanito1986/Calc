@@ -1,0 +1,7 @@
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\ClassLibrary\bin\Debug\NCalc.dll
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\ClassLibrary\bin\Debug\Antlr3.Runtime.dll
+D:\Profiles\jcyarasca\Documents\Visual Studio 2012\Projects\WPFBrowserCalculator\ClassLibrary\bin\Debug\Antlr3.Runtime.pdb
